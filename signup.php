@@ -6,7 +6,7 @@
         
 	$link = mysqli_connect("shareddb-t.hosting.stackcp.net","secretdiary-3133315008","nihir8199","secretdiary-3133315008");
 		
-	
+	$nihir = "";
 	
 	
 if(isset($_POST['signup']) != '')
